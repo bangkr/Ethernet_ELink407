@@ -455,10 +455,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>0</ColumnNumber>
+      <ColumnNumber>23</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>0</TopLine>
-      <CurrentLine>0</CurrentLine>
+      <TopLine>217</TopLine>
+      <CurrentLine>265</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\user\stm32f4x7_eth_bsp.c</PathWithFileName>
       <FilenameWithoutPath>stm32f4x7_eth_bsp.c</FilenameWithoutPath>
@@ -479,7 +479,7 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>6</ColumnNumber>
+      <ColumnNumber>7</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
       <TopLine>8</TopLine>
       <CurrentLine>9</CurrentLine>
